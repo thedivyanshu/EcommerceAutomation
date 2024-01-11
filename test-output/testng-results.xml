@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T20:40:25 IST" name="Suite" finished-at="2024-01-11T20:40:46 IST" duration-ms="20684">
+    <groups>
+      <group name="flipKart">
+        <method signature="EcommerceTest.afterMethod()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="afterMethod" class="EcommerceWebsite.Automation.EcommerceTest"/>
+        <method signature="EcommerceTest.checkContentRefreshFrequencyTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="checkContentRefreshFrequencyTest" class="EcommerceWebsite.Automation.EcommerceTest"/>
+        <method signature="EcommerceTest.checkImageVisibilityTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="checkImageVisibilityTest" class="EcommerceWebsite.Automation.EcommerceTest"/>
+        <method signature="EcommerceTest.measurePageLoadTimeTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="measurePageLoadTimeTest" class="EcommerceWebsite.Automation.EcommerceTest"/>
+        <method signature="EcommerceTest.scrollFeature()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="scrollFeature" class="EcommerceWebsite.Automation.EcommerceTest"/>
+        <method signature="EcommerceTest.scrollToEnd()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="scrollToEnd" class="EcommerceWebsite.Automation.EcommerceTest"/>
+        <method signature="EcommerceTest.verifyImageDownloadAndDisplayTimingTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="verifyImageDownloadAndDisplayTimingTest" class="EcommerceWebsite.Automation.EcommerceTest"/>
+        <method signature="EcommerceTest.verifyScrollToBottomTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" name="verifyScrollToBottomTest" class="EcommerceWebsite.Automation.EcommerceTest"/>
+      </group> <!-- flipKart -->
+    </groups>
+    <test started-at="2024-01-11T20:40:25 IST" name="Test" finished-at="2024-01-11T20:40:46 IST" duration-ms="20684">
+      <class name="EcommerceWebsite.Automation.EcommerceTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:20 IST" name="beforeSuite" finished-at="2024-01-11T20:40:25 IST" duration-ms="5240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="afterMethod()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:25 IST" name="afterMethod" finished-at="2024-01-11T20:40:28 IST" duration-ms="2639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="checkContentRefreshFrequencyTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:28 IST" name="checkContentRefreshFrequencyTest" finished-at="2024-01-11T20:40:38 IST" duration-ms="10199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentRefreshFrequencyTest -->
+        <test-method signature="checkImageVisibilityTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:38 IST" name="checkImageVisibilityTest" finished-at="2024-01-11T20:40:42 IST" duration-ms="3238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkImageVisibilityTest -->
+        <test-method signature="flipkart()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:42 IST" name="flipkart" finished-at="2024-01-11T20:40:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+        <test-method signature="measurePageLoadTimeTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:42 IST" name="measurePageLoadTimeTest" finished-at="2024-01-11T20:40:42 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- measurePageLoadTimeTest -->
+        <test-method signature="scrollFeature()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:42 IST" name="scrollFeature" finished-at="2024-01-11T20:40:42 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollFeature -->
+        <test-method signature="scrollToEnd()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:42 IST" name="scrollToEnd" finished-at="2024-01-11T20:40:42 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToEnd -->
+        <test-method signature="verifyImageDownloadAndDisplayTimingTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:42 IST" name="verifyImageDownloadAndDisplayTimingTest" finished-at="2024-01-11T20:40:44 IST" duration-ms="2115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImageDownloadAndDisplayTimingTest -->
+        <test-method signature="verifyScrollToBottomTest()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:44 IST" name="verifyScrollToBottomTest" finished-at="2024-01-11T20:40:46 IST" duration-ms="2132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollToBottomTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:EcommerceWebsite.Automation.EcommerceTest@23c30a20]" started-at="2024-01-11T20:40:46 IST" name="afterSuite" finished-at="2024-01-11T20:40:46 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- EcommerceWebsite.Automation.EcommerceTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
